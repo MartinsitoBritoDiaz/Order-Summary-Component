@@ -1,4 +1,4 @@
-# Frontend Mentor - Four card feature section
+# Frontend Mentor - Order-Summary-Component
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
@@ -12,7 +12,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Links
 
-
+https://order-summary-card-mbd.netlify.app/
 
 ## Author
 
